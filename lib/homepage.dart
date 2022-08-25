@@ -10,7 +10,10 @@ class HomePage extends StatelessWidget {
       body: Center(
         child: Column(
           children:const <Widget>[
-            Text("Agus Juniartha")
+            Text("Agus Juniartha"),
+            Text("Udayana"),
+            Text("ALtera"),
+            Text("MBKM")
           ],
         ),
       ),
