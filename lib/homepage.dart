@@ -12,6 +12,7 @@ class HomePage extends StatelessWidget {
           children:const <Widget>[
             Text("Agus Juniartha"),
             Text("Udayana"),
+            Text("LILOILI"),
             Text("LALALALA")
           ],
         ),
