@@ -7,8 +7,12 @@ class HomePage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(title:const Text("Tugas Praktikum Git"),),
-      body: Column(
-        
+      body: Center(
+        child: Column(
+          children:const <Widget>[
+            Text("Agus Juniartha")
+          ],
+        ),
       ),
     );
   }
