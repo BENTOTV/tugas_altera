@@ -11,7 +11,8 @@ class HomePage extends StatelessWidget {
         child: Column(
           children:const <Widget>[
             Text("Agus Juniartha"),
-            Text("Udayana")
+            Text("Udayana"),
+            Text("LALALALA")
           ],
         ),
       ),
